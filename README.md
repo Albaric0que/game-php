@@ -48,7 +48,14 @@
 <h2> 5- To install this project:</h2>
   <li>You will need to install XAMPP in your computer.</li>
   <li>Open your Terminal and go to htdocs inside the xampp directory.</li>
-  <li>Run <b>git clone</b> https://github.com/Albaric0que/game-php.git.</li>
+  <li>
+   To clone the project, run:
+
+
+```bash
+  git clone https://github.com/Albaric0que/game-php
+```
+  </li>
   <li>Do not forget to start XAMPP to be able to run the app.</li>
   <li>Open your browser of choice and go to localhost. Navigate to the app from here.</li>
 

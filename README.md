@@ -4,7 +4,7 @@
   <ul>
     <li>This app is a probability game. Just for funsies.</li>
     <li>The user starts in a view with a little form where he/she can add a number. This number will be the "money" to gamble.</li>
-    <li>After adding an amount you can start playing. The form will take you to three posible outcomes: split in half, double, or lose you "money".</li>
+    <li>After adding an amount you can start playing. The form will take you to three posible outcomes: split in half, double, or lose your "money".</li>
     <li>Each outcome gives you two more options: play again or finish the game.</li>
   </ul>
 

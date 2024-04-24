@@ -1,4 +1,4 @@
-<h1 align="center">Lose your money app</h1> 
+<h1 align="center">Lose Your Money App</h1> 
 
 <h2> 1- Project description:</h2>
   <ul>
@@ -12,22 +12,20 @@
   
    [Alba Rus](https://github.com/Albaric0que)
   
-  <h2> 3- Project Demo</h2> 
+  <h2> 3- Project Images:</h2> 
 
   <div style="heigth:auto; display:flex; padding:5rem;">
-    <h3 style="align-self: center;">CREAR</h3>
-    <img style="width:1000px"; src="" alt=""/>
-    <h3></h3>
-    <img style="width:1000px"; src="" alt=""/>
-    <h3></h3>
-    <img style="width:1000px"; src="" alt=""/>
-    <h3></h3>
-    <img style="width:1000px"; src="" alt=""/>
-    <h3></h3>
-    <img style="width:1000px"; src="" alt=""/>
+    <h3">MAIN SCREEN</h3>
+    <img style="width:1000px"; src="/images/screenshots/main.png" alt="Main screen"/>
+    <h3>DOUBLE AMOUNT</h3>
+    <img style="width:1000px"; src="/images/screenshots/double.png" alt="Double amount"/>
+    <h3>HALF AMOUNT</h3>
+    <img style="width:1000px"; src="/images/screenshots/half.png" alt="Half amount"/>
+    <h3>LOSE EVERYTHING 😱</h3>
+    <img style="width:1000px"; src="/images/screenshots/death.png" alt="Lose everything"/>
   </div>
 
-<h2> 4- Stacks</h2>
+<h2> 4- Stacks:</h2>
 
 * **Frontend:**
   <ul>
@@ -47,15 +45,14 @@
     <li>GIT</li>
   </ul>
 
-<h2> 5- To install this project</h2>
+<h2> 5- To install this project:</h2>
   <li>You will need to install XAMPP in your computer</li>
-  <li>Open your Terminal and go to a direrctory of your choice</li>
+  <li>Open your Terminal and go to htdocs inside the xampp directory </li>
   <li>Run <b>git clone</b> https://github.com/Albaric0que/game-php.git</li>
-  <li></li>
-  <li></li>
-  <li>Open a tab in your browser and go to localhost. You will visualize the app there</li>
+  <li>Do not forget to start XAMPP to be able to run the app</li>
+  <li>Open your browser of choice and go to localhost. Navigate to the app from here</li>
 
-<h2> 6- Next Steps</h2>
+<h2> 6- Next Steps:</h2>
 <ul>
   <li>This was a school project and was fun to do. Nothing else to be added.</li>
 </ul>
